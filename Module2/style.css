@@ -74,6 +74,7 @@ ul
   clear:both;
   line-height: 140%;
   padding: 10px;
+  text-align: justify;
 }
 
 @media (min-width: 992px) 
