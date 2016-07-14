@@ -87,6 +87,25 @@ ul
     float: left;
   }
 
+  .s1
+  {
+    background: #FFE4C4;
+    margin-right: 12.5px;
+  }
+
+  .s2
+  {
+    background: #FFDEAD;
+    margin-right:12.5px;
+    margin-left:12.5px;
+  }
+
+  .s3
+  {
+    background: #F5DEB3;
+    margin-left:12.5px;
+  }
+
   .col-lg-1 
   {
     width: 8.33%;
@@ -158,11 +177,21 @@ ul
     float: left;
   }
 
+  .s1
+  {
+    background: #FFE4C4;
+    margin-right: 12.5px;
+  }
+
+  .s2
+  {
+    background: #FFDEAD;
+    margin-left:12.5px;
+  }
+
   section 
   {
-    background: #F5DEB3;
     margin:12.5px 20px 12.5px 20px;
-    border: 3px solid black;
   }
 
   .col-md-1 
