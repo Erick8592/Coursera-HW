@@ -158,6 +158,13 @@ ul
     float: left;
   }
 
+  section 
+  {
+    background: #F5DEB3;
+    margin:12.5px 20px 12.5px 20px;
+    border: 3px solid black;
+  }
+
   .col-md-1 
   {
     width: 8.33%;
